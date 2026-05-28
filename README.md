@@ -1,5 +1,8 @@
 # Sean Campbell
 
+
+> Profile README · updated 2026-05-28 · if you see this on github.com/rudi193-cmd, rendering works
+
 **Local-first AI memory · [Willow 2.0](https://rudi193-cmd.github.io/willow-2.0/) · Albuquerque**
 
 Building agent infrastructure you can run on your own hardware — Postgres knowledge graphs, MCP tools, Ollama by default. Cloud optional. Amnesia discouraged.
