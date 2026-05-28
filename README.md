@@ -18,7 +18,7 @@ Building agent infrastructure you can run on your own hardware — Postgres know
 | [**willow-2.0**](https://github.com/rudi193-cmd/willow-2.0) | Agent memory monorepo — KB, MCP, Grove fleet, Kart sandbox |
 | [**SAFE**](https://github.com/rudi193-cmd/SAFE) | Session-Authorized, Fully Explicit — consent framework for apps that handle personal data |
 | [**safe-app-store**](https://github.com/rudi193-cmd/safe-app-store) | Local-first apps on SAFE — no ports, no servers, no subscriptions |
-| [**basic-memory**](https://github.com/rudi193-cmd/basic-memory) | Markdown-native AI memory — conversations that carry context across sessions |
+| [**mcp-memory-service**](https://github.com/rudi193-cmd/mcp-memory-service) | doobidoo's MCP memory — knowledge graph + consolidation for agent pipelines |
 | [**willow-tech-manual**](https://github.com/rudi193-cmd/willow-tech-manual) | Architecture docs and Mintlify scaffold |
 
 ---
