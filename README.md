@@ -1,42 +1,40 @@
 # Sean Campbell
 
+**Honest AI systems — local-first, human-sealed, provable · Portland, OR · open to remote**
 
-> Profile README · updated 2026-05-28 · if you see this on github.com/rudi193-cmd, rendering works
+I build agent infrastructure where code can propose but only a person can approve, and where the record of what happened can't be quietly edited. It runs on your own hardware.
 
-**Local-first AI memory · [Willow 2.0](https://rudi193-cmd.github.io/willow-2.0/) · Albuquerque**
-
-Building agent infrastructure you can run on your own hardware — Postgres knowledge graphs, MCP tools, Ollama by default. Cloud optional. Amnesia discouraged.
-
-**→ [Clone Willow](https://github.com/rudi193-cmd/willow-2.0)** · [First 5 minutes](https://github.com/rudi193-cmd/willow-2.0/blob/master/docs/FIRST_5_MINUTES.md)
+**→ [Portfolio and case studies](https://github.com/rudi193-cmd/DispatchesFromReality/blob/main/professional/README.md)** · [Newest: the one-script fleet](https://github.com/rudi193-cmd/DispatchesFromReality/blob/main/professional/one-script-fleet-case-study.md)
 
 ---
 
-## Projects
+## Now
 
 | Repo | What |
 |------|------|
-| [**willow-2.0**](https://github.com/rudi193-cmd/willow-2.0) | Agent memory monorepo — KB, MCP, Grove fleet, Kart sandbox |
-| [**SAFE**](https://github.com/rudi193-cmd/SAFE) | Session-Authorized, Fully Explicit — consent framework for apps that handle personal data |
-| [**safe-app-store**](https://github.com/rudi193-cmd/safe-app-store) | Local-first apps on SAFE — no ports, no servers, no subscriptions |
-| [**mcp-memory-service**](https://github.com/rudi193-cmd/mcp-memory-service) | doobidoo's MCP memory — knowledge graph + consolidation for agent pipelines |
-| [**willow-tech-manual**](https://github.com/rudi193-cmd/willow-tech-manual) | Architecture docs and Mintlify scaffold |
+| [**willow-bot**](https://github.com/willow-memory/willow-bot) | The one-script core: one random stream, one tamper-evident record, one human-only seal; plus a propose-only GitHub steward |
+| [**willows-grove**](https://github.com/willow-memory/willows-grove) | The operator's seat over the fleet: loopback-only page and CLI |
+| [**willow-mcp**](https://github.com/willow-memory/willow-mcp) | Agent-neutral MCP server with persistent memory and task execution |
+| [**Nestor**](https://github.com/Die-Namic-Systems/Nestor) | Has a human checked this? Seal, serve and audit over human-verified memory |
+| [**Jeles**](https://github.com/hornbook-knowledge/Jeles) | A verified corpus: human-checked answers with citations |
+| [**Forge**](https://github.com/forge-play/Forge) | The harness that refuses a confident wrong answer |
+| [**safe-app-store**](https://github.com/rudi193-cmd/safe-app-store) | Local-first apps: no ports, no servers, no subscriptions |
+
+Earlier work: [willow-2.0](https://github.com/rudi193-cmd/willow-2.0) (archived).
 
 ---
 
-## Upstream
+## Writing and teaching
 
-Contributing outside my own repos:
-
-| Project | Work |
-|---------|------|
-| [**Stash**](https://github.com/alash3al/stash) | [PR #10](https://github.com/alash3al/stash/pull/10) security fix · [PR #9](https://github.com/alash3al/stash/pull/9) Ollama docs |
-| [**Emerging Rule**](https://github.com/Emerging-Rule/community) | K-12 AI literacy lessons · community knowledge base |
+[**Dispatches From Reality**](https://github.com/rudi193-cmd/DispatchesFromReality): research papers, AI literacy lessons, an assessment-visibility framework, and essays.
 
 ---
 
-## Stack
+## Background
 
-`postgres` · `mcp` · `ollama` · `python` · `go` · `local-first` · `claude-code` · `cursor`
+27 years in grocery operations · Master's in Music Education, a year in a middle school music classroom · quizmaster since 2008 · [Emerging Rule](https://github.com/Emerging-Rule/community) contributor
+
+`python` · `postgres` · `mcp` · `ollama` · `github-actions` · `local-first`
 
 ---
 
